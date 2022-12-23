@@ -14,7 +14,7 @@ details on creating a virtual environment can be found [here](https://towardsdat
 ## Clone the repository
 Once you have created the virtual environment, activate it and use the following command.
 ```
-git clone https://github.com/aqeelanwar/AnalyzeTheChat.git
+git clone https://github.com/sanchit-mathur/AnalyzeTheChat.git
 ```
 
 ## Install required packages
