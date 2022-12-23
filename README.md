@@ -61,5 +61,5 @@ The results can be viewed in the results folder.
 
 
 ```
-AnalyzeTheChat: https://github.com/aqeelanwar/AnalyzeTheChat
+AnalyzeTheChat: https://github.com/sanchit-mathur/AnalyzeTheChat
 ```
